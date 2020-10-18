@@ -1,5 +1,5 @@
 # Quotes
-
+A collection of quotes that inspired me, collected all across my reading
 ---
 
 > Un sogno sembra solo un sogno fino a quando non si comincia da qualche parte.
