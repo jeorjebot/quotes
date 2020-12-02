@@ -15,3 +15,9 @@ A collection of quotes that inspired me, collected all across my reading
 
 ---
 
+> Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+
+\~ Linus Torvalds
+
+
+
