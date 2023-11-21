@@ -19,5 +19,11 @@ A collection of quotes that inspired me, collected all across my reading
 
 \~ Linus Torvalds
 
+---
+
+> Less, but better.
+
+\~ Dieter Rams
+
 
 
